@@ -5,7 +5,7 @@
   <h1 align="center">Food-E App</h1>
   <b>E-HEALTH</b> is a food additives database app.
   Contains comprehensive information about each additive.
-  App is using the <a href="https://github.com/SuhasDissa/E-Number-Database">E-Number-Database</a><br><br>
+  App is using the <a href="https://ecodehalalcheck.com/">E-Number-Database</a><br><br>
 </div>
 
  <div align="center">
